@@ -1,0 +1,9 @@
+spacy
+textacy
+gensim
+plotly
+umap-learn
+lime
+transformers
+openai
+langchain

@@ -1,0 +1,46 @@
+channels:
+  - conda-forge
+  - plotly 
+
+dependencies:
+  - python=3.10
+  - cython
+  - regex 
+  - unidecode 
+  - tabulate
+  - markdown
+  - psutil
+  
+  - notebook
+  # - nbconvert==5.6.1 # 6.x generates warnings 
+  - jupyter 
+  # - jupyter_contrib_nbextensions
+  # - jupyter_nbextensions_configurator 
+
+  - pip
+
+  - pip:
+    # add pip-distributed libraries
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - plotly
+    - umap-learn
+    - pydot
+    - beautifulsoup4
+    - nltk
+    - spacy
+    - textacy
+    - gensim
+    - wordcloud
+    - psaw
+    - lime
+    - tensorflow
+    - torch
+    - transformers
+    - openai
+    - langchain
+
+# dont' forget:
+# python -m spacy download en_core_web_sm
