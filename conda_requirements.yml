@@ -21,6 +21,7 @@ dependencies:
 
   - pip:
     # add pip-distributed libraries
+    - python-dotenv
     - pandas
     - scikit-learn
     - matplotlib
