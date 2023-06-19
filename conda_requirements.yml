@@ -40,6 +40,7 @@ dependencies:
     - tensorflow
     - torch
     - transformers
+    - datasets
     - openai
     - langchain
 
