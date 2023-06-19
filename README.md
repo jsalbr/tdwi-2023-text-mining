@@ -31,6 +31,11 @@ Für das aktive Mitmachen wird benötigt:
   [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Classification.ipynb)] 
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/master/notebooks/Classification.ipynb)]
 
+  * **Classification BERT** 
+  [[View here in git](notebooks/Classification_BERT.ipynb)] 
+  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Classification_BERT.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/master/notebooks/Classification_BERT.ipynb)]
+
   * **Advanced Models** 
   [[View here in git](notebooks/Advanced.ipynb)] 
   [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Advanced.ipynb)] 
