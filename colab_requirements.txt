@@ -4,6 +4,7 @@ gensim
 plotly
 umap-learn
 lime
+datasets
 transformers
 openai
 langchain
