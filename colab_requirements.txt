@@ -5,6 +5,6 @@ plotly
 umap-learn
 lime
 datasets
-transformers
+transformers[torch]
 openai
 langchain
