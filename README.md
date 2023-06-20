@@ -33,13 +33,13 @@ Für das aktive Mitmachen wird benötigt:
 
   * **Classification BERT** 
   [[View here in git](notebooks/Classification_BERT.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Classification_BERT.ipynb)] 
-  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/master/notebooks/Classification_BERT.ipynb)]
+  [[View in nbviewer](https://nbviewer.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Classification_BERT.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Classification_BERT.ipynb)]
 
-  * **Advanced Models** 
-  [[View here in git](notebooks/Advanced.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Advanced.ipynb)] 
-  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/master/notebooks/Advanced.ipynb)]
+  * **Semantic Analysis with LLMs** 
+  [[View here in git](notebooks/Semantic_Analysis_LLM.ipynb)] 
+  [[View in nbviewer](https://nbviewer.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Semantic_Analysis_LLM.ipynb)] 
+  [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Semantic_Analysis_LLM.ipynb)]
 
 
 Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks zur Datenextraktion und Bereinigung:
