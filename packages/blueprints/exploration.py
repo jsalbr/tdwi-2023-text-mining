@@ -46,7 +46,7 @@ def wordcloud(word_freq, title=None, max_words=200, stopwords=None):
 
     wc = WordCloud(width=800, height=400, 
                    background_color= "black", colormap="Paired", 
-                   max_font_size=150, max_words=max_words)
+                   max_font_size=150, max_words=max_words, relative_scaling="auto")
     
     # convert data frame into dict
     if type(word_freq) == pd.Series:
