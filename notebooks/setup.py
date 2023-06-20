@@ -20,8 +20,8 @@ if ON_COLAB:
         # 'data/reddit-autos-selfposts-raw.csv',
         'data/reddit-autos-selfposts-cleaned.csv',
         'data/reddit-autos-selfposts-prepared.csv',
-        # 'data/reddit-autos-selfposts-gpt-sentiment-samples.json',
-        # 'data/reddit-autos-selfposts-gpt-sentiment.json',
+        'data/reddit-autos-selfposts-gpt-sentiment-samples.json',
+        'data/reddit-autos-selfposts-gpt-sentiment.json',
         # 'data/w2v_autos_100_30_sg.bin',
         'colab_requirements.txt'
     ]

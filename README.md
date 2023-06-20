@@ -42,18 +42,6 @@ Für das aktive Mitmachen wird benötigt:
   [[Execute on Google Colab](https://colab.research.google.com/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Semantic_Analysis_LLM.ipynb)]
 
 
-Darüber hinaus bereitgestellt, aber im Workshop nicht verwendet, die Notebooks zur Datenextraktion und Bereinigung:
-
-  * **Data Extraction**
-  [[View here in git](notebooks/Data_Extraction_Reddit.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Data_Extraction_Reddit.ipynb)] 
-
-  * **Data Cleaning**
-  [[View here in git](notebooks/Data_Cleaning_Reddit.ipynb)] 
-  [[View in nbviewer](https://nbviewer.ipython.org/github/jsalbr/tdwi-2023-text-mining/blob/main/notebooks/Data_Cleaning.ipynb)] 
-
-
-
 ## Ananconda-Installation
 
 ```sh
