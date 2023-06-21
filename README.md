@@ -1,4 +1,4 @@
-# TDWI 2023: Text Mining mit Python und PowerBI
+# TDWI 2023: Text Mining & NLP mit Python und PowerBI
 
 Workshop von **Jens Albrecht und Roland Zimmermann** auf [TDWI-Konferenz 2023](https://www.tdwi-konferenz.de/tdwi-2023/programm/konferenzprogramm)
 
@@ -13,7 +13,7 @@ Für das aktive Mitmachen wird benötigt:
 
 ## Inhalt
 
-[Präsentation](TDWI2023_Text_Mining.pdf)
+[Präsentation](TDWI2023_Text_Mining_NLP.pdf)
 
 ### PowerBI-Dateien
 
